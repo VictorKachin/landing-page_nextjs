@@ -13,6 +13,10 @@ import Link from 'next/link'
 // 19:20 from
 // https://www.youtube.com/watch?v=Z0cn02PTKBQ&ab_channel=iggy
 
+// TODO: 
+// FIXME: 
+
+
 const ActionButtons = () => {
 	return (
 		<div>
@@ -41,6 +45,7 @@ const ActionButtons = () => {
 				</Button>
 				<Button className='text-md bg-blue-500'>Get Started</Button>
 			</div>
+		
 		</div>
 	)
 }
